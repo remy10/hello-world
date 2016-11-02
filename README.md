@@ -1,4 +1,7 @@
 # hello-world
-first repository
 
-learning
+Hi Humans
+
+Remy here
+I like tacos in brooklyn
+
